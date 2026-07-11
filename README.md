@@ -24,4 +24,6 @@ DIRECTIVE:    Building complete code solutions.
 
 STATUS:       ACTIVE_DEVELOPMENT_MODE
 
-https://codefinity.com/certificate/bebddf32-82db-40f6-b6c7-c0e095e0b6d4/track/932989cf-f7a6-4051-a2a9-22386c37daf6
+### 🎓 Certifications
+
+[![[SQL FROM ZERO TO HERO]](https://codefinity.com/certificate/bebddf32-82db-40f6-b6c7-c0e095e0b6d4/track/932989cf-f7a6-4051-a2a9-22386c37daf6)](https://codefinity.com/certificate/bebddf32-82db-40f6-b6c7-c0e095e0b6d4/track/932989cf-f7a6-4051-a2a9-22386c37daf6)
