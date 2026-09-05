@@ -1,87 +1,207 @@
-<div align="center"> 
+<div align="center">
 
-# █▓▒░ SYSTEM_INIT: dimknife63 ░▒▓█ 
+# 👋 Hey, I'm Papa Kwame
 
-![Cyber Banner](https://herokuapp.com) 
+### Developer • Builder • Learner
 
---- 
+**Python • Java • SQL • TypeScript • JavaScript • Go • HTML • CSS**
 
-### ◈ HARDWARE OVERVIEW ◈ 
-`[ SYSTEM_READY ]` | `[ NETWORK: ACTIVE ]` | `[ SECURITY: ENCRYPTED ]` 
+[![GitHub](https://img.shields.io/badge/GitHub-dimknife63-181717?style=for-the-badge&logo=github)](https://github.com/dimknife63)
+[![Boot.dev](https://img.shields.io/badge/Boot.dev-Profile-000000?style=for-the-badge)](https://www.boot.dev/)
 
-</div> 
+</div>
 
-## ⫸ MODULE: ABOUT_USER_DATA 
+---
 
-```bash
-> cat /user/dimknife63/biography.sys
-ENTITY: Papakwame
-PLATFORM: macOS
-OPERATIVE: Developer
-DIRECTIVE: Building complete code solutions. Always executing terminal commands with precision. Focusing on high-performance logic and clean architecture.
-STATUS: ACTIVE_DEVELOPMENT_MODE
+## 👨‍💻 About Me
+
+Hey! I'm **Papa Kwame**, a developer who enjoys building things, learning new technologies, and solving problems with code.
+
+I'm interested in **backend development, databases, web development, cloud computing, DevOps, and software engineering**.
+
+I like learning by actually building projects instead of only reading about programming.
+
 ```
-
-## ⫸ MODULE: VERIFIED_CREDENTIALS 🪪
-
-### 🏆 Featured Certification
-[![SQL FROM ZERO TO HERO](https://shields.io)](https://codefinity.com/certificate/bebddf32-82db-40f6-b6c7-c0e095e0b6d4/track/932989cf-f7a6-4051-a2a9-22386c37daf6)
-
----
-
-### 🛣️ Completed Learning Tracks
-
-| Track Name | Progress | Status |
-| :--- | :---: | :---: |
-| 🛡️ Supervised Learning Foundations | **9/9 Courses** | `[ COMPLETED ]` |
-| 📊 Business Intelligence Specialist | **5/5 Courses** | `[ COMPLETED ]` |
-| 🐍 Python for Data Science | **5/5 Courses** | `[ COMPLETED ]` |
-| 📈 Data Analyst with Python | **9/9 Courses** | `[ COMPLETED ]` |
-| ⚙️ Python from Zero to Hero | **9/9 Courses** | `[ COMPLETED ]` |
-| 🗄️ SQL from Zero to Hero | **9/9 Courses** | `[ COMPLETED ]` |
-| 📉 Data Analyst with SQL | **8/8 Courses** | `[ COMPLETED ]` |
-| 🔗 Blockchain Essentials | **6/6 Courses** | `[ COMPLETED ]` |
-| 🤖 Python for Automation | **7/7 Courses** | `[ COMPLETED ]` |
-
----
-
-### 🛠️ Production Projects
-```diff
-+ [SUCCESS] File Format Converter
-+ [SUCCESS] Password Hash Checker
-+ [SUCCESS] Wordle Game with OOP
-+ [SUCCESS] Hangman Game
-+ [SUCCESS] User Behavior Impact Analysis
-+ [SUCCESS] Exploring Olympic History Through Data Visualization
-+ [SUCCESS] Analyzing Department Revenue
-+ [SUCCESS] Text Pattern Matching with Regex
-+ [SUCCESS] Phishing Detection with Classification
-+ [SUCCESS] Mushroom Edibility Classification
-+ [SUCCESS] Individual Health Insurance Cost Prediction
+Learn → Build → Break → Debug → Improve → Repeat
 ```
 
 ---
 
-### 📚 Completed Courses & Core Modules
+## 🛠️ Tech Stack
 
-#### 🐍 Python Ecosystem
-*   `[ COMPLETED ]` Working with APIs in Python
-*   `[ COMPLETED ]` Python Knight & Python Ninja Series
-*   `[ COMPLETED ]` Python Functions, Loops, and Control Flow
-*   `[ COMPLETED ]` Python Data Structures & Data Types
-*   `[ COMPLETED ]` Introduction to Python
+### 💻 Programming Languages
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="45" height="45" alt="Go"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" height="45" alt="C"/>
+</p>
 
-#### 🗄️ SQL & Database Architecture
-*   `[ COMPLETED ]` SQL for Product, Marketing, & Business Intelligence Analytics
-*   `[ COMPLETED ]` Window Functions & Mastering CASE WHEN in SQL
-*   `[ COMPLETED ]` SQL for Finance and Accounting
-*   `[ COMPLETED ]` SQL Optimization, Query Features, & Execution
-*   `[ COMPLETED ]` Subqueries, SQL Joins in Depth, & Functions in SQL
-*   `[ COMPLETED ]` Database Design Patterns
-*   `[ COMPLETED ]` Mastering SQL EXPLAIN and Query Planning
-*   `[ COMPLETED ]` SQL Data Types Explained
-*   `[ COMPLETED ]` Relational Databases and Normalization
-*   `[ COMPLETED ]` Introduction, Intermediate, & Advanced SQL
+### 🌐 Web Development
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3"/>
+</p>
 
-#### 📊 Business & Tools
-*   `[ COMPLETED ]` Excel for Complete Beginners
+HTML • CSS • JavaScript • TypeScript • HTTP • APIs
+
+### 🗄️ Databases
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="45" height="45" alt="SQLite"/>
+</p>
+
+SQL • PostgreSQL • MySQL • SQLite • Database Design • Queries • Joins • Indexes
+
+### ☁️ Cloud & DevOps
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="60" height="45" alt="AWS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45" alt="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45" alt="Linux"/>
+</p>
+
+AWS • Docker • Git • GitHub • Linux • CI/CD • GitHub Actions
+
+### 🎨 Design
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45" height="45" alt="Figma"/>
+</p>
+
+Figma • UI Design • Web Design
+
+---
+
+## 🏆 Boot.dev
+
+I've spent a lot of time learning backend development through hands-on programming courses and projects.
+
+<div align="center">
+
+### 🎓 Backend Developer Path — COMPLETED
+
+<a href="https://www.boot.dev/certificates/26ae1ae1-7f4d-484b-b1dc-7c5871190339">
+  <img src="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/26ae1ae1-7f4d-484b-b1dc-7c5871190339.jpeg?v=1786109545" alt="Boot.dev Backend Developer Path certificate" width="700"/>
+</a>
+
+*Click the certificate to view it on Boot.dev*
+
+</div>
+
+### 📊 Boot.dev Stats
+
+| 📚 Courses | 🧩 Lessons | 🏆 Level | 📈 Leaderboard |
+|:---:|:---:|:---:|:---:|
+| 28 | 2,859 | 131 | Top 0.1% |
+
+### 📜 Certifications
+
+**Backend & Programming**
+- Learn Python for Beginners
+- Learn JavaScript
+- Learn TypeScript
+- Learn Go
+- Learn Memory Management in C
+
+**Databases**
+- Learn SQL
+
+**Web & HTTP**
+- Learn HTTP Protocol in Go
+- Learn HTTP Servers in Go
+- Learn HTTP Servers in TypeScript
+- Learn HTTP Clients in Python
+- Learn HTTP Clients in Go
+- Learn HTTP Clients in TypeScript
+
+**Computer Science**
+- Learn Data Structures and Algorithms in Python
+- Learn Data Structures and Algorithms 2 in Python
+- Learn Object Oriented Programming in Python
+- Learn Functional Programming in Python
+- Learn Cryptography in Go
+
+**DevOps & Cloud**
+- Learn Git
+- Learn Git 2
+- Learn Docker
+- Learn Linux
+- Learn Kubernetes
+- Learn AWS
+- Learn CI/CD with GitHub Actions, Docker and Go
+- Learn File Servers and CDNs with S3 and CloudFront
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Tech |
+|---|---|
+| 🕷️ Web Scraper | TypeScript |
+| 🕷️ Web Scraper | Python |
+| 🕷️ Web Scraper | Go |
+| 🌐 Static Site Generator | Python |
+| 🐾 Pokedex | TypeScript |
+| 🐾 Pokedex | Go |
+| 🧩 Maze Solver | Python |
+| 📰 Blog Aggregator | TypeScript |
+| 📰 Blog Aggregator | Go |
+| 🏢 Megacorp | Software Development |
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=dimknife63&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimknife63&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+
+</div>
+
+### 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=dimknife63&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+
+</div>
+
+### 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/dimknife63/dimknife63/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+
+</div>
+
+> ⚠️ The snake image only appears once you set up the GitHub Action that generates it (see note below).
+
+---
+
+## 🎯 Current Goals
+
+- Build larger backend applications
+- Improve SQL and database skills
+- Build more APIs
+- Learn more about AWS
+- Improve DevOps and CI/CD skills
+- Create more personal projects
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-dimknife63-181717?style=for-the-badge&logo=github)](https://github.com/dimknife63)
+[![Boot.dev](https://img.shields.io/badge/Boot.dev-Profile-000000?style=for-the-badge)](https://www.boot.dev/)
+
+**⭐ Thanks for visiting — keep coding, keep building, keep learning.**
+
+</div>
