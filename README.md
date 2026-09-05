@@ -180,7 +180,7 @@ I've spent a lot of time learning backend development through hands-on programmi
 
 </div>
 
-> ⚠️ The snake image only appears once you set up the GitHub Action that generates it (see note below).
+
 
 ---
 
