@@ -200,7 +200,7 @@ I've spent a lot of time learning backend development through hands-on programmi
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-dimknife63-181717?style=for-the-badge&logo=github)](https://github.com/dimknife63)
-[![Boot.dev](https://img.shields.io/badge/Boot.dev-Profile-000000?style=for-the-badge)](https://www.boot.dev/)
+[![Boot.dev](https://img.shields.io/badge/Boot.dev-Profile-000000?style=for-the-badge)](https://www.boot.dev/u/dimknife63)
 
 **⭐ Thanks for visiting — keep coding, keep building, keep learning.**
 
